@@ -1,0 +1,14 @@
+.ui-page { background:#2b2e31; }
+
+label{
+	color: white;
+	font-size: 26px;
+}
+
+li, legend{
+	color: white;
+}
+
+.speicher_button{
+	width = 25%
+}
